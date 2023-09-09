@@ -34,4 +34,5 @@ _That will open the project on your default browser: <http://localhost:5173/>. Y
 ## License
 This project is NOT licensed. [Learn more](LICENSE).
 
-## Ackno
+## Acknowledgements
+This project was only possible because of the outstanding work [ChatGPT](https://platform.openai.com/) has done in creating the AI backbone of Engg-bot. ChatGPT's advanced natural language understanding capabilities have greatly enhanced the functionality and usability of our chatbot.
