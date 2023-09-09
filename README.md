@@ -5,10 +5,8 @@
 Engg-bot is a powerful engineering chatbot designed to assist you with all your engineering-related questions. Whether you're a student, a professional engineer, or simply curious about engineering topics, Engg-bot is here to provide you with accurate and reliable information. Powered by OpenAI's state-of-the-art language model, Engg-bot can answer a wide range of engineering questions and help you navigate the complex world of engineering.
 
 ### Features
-- **Comprehensive Engineering Knowledge**: Engg-bot is trained on a vast dataset of engineering materials, textbooks, and resources, allowing it to provide detailed and accurate answers to a wide range of engineering questions across various disciplines.
 - **Natural Language Understanding**: Engg-bot understands natural language queries, making it easy for you to ask questions in plain English without needing to use technical jargon.
 - **Real-time Responses**: Engg-bot provides instant responses to your queries, ensuring that you get the information you need quickly.
-- **Interactive Conversations**: Engg-bot is designed to engage in interactive conversations, making it a great learning companion for students and a valuable resource for professionals.
 - **OpenAI Backend**: Powered by OpenAI's advanced language model, Engg-bot leverages the latest advancements in natural language processing to deliver high-quality responses.
 - **User-Friendly Frontend**: Engg-bot's frontend is built using ReactJS and Vite.js, ensuring a smooth and responsive user experience on both desktop and mobile devices.
 
@@ -36,7 +34,4 @@ _That will open the project on your default browser: <http://localhost:5173/>. Y
 ## License
 This project is NOT licensed. [Learn more](LICENSE).
 
-## Acknowledgments
-This project was made possible with significant guidance from the excellent YouTube tutorial by 'JavaScript Mastery'. The video provides valuable insights and guidance that contributed significantly to the development of this project. <https://www.youtube.com/watch?v=0fYi8SGA20k>
-
-Thank you for checking out my site!
+## Ackno
